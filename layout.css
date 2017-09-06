@@ -1,7 +1,7 @@
 body
 {
 	min-width: 630px;
- background-image: url("images/sword_art_online___aincrad_fresco_by_cruzerblade1029-d5a8e8z.jpg");
+ background-image: url("images/bg.svg");
  color: rgb(0, 150, 250);
  font-family: 'SAOUI-Regular.otf', 'SAOUITT-Regular.ttf', serif;
 }
@@ -54,7 +54,7 @@ body
 
 #left, #right
 {
-
+ background-image: url("images/white.svg");
 }
 
 #header, #footer
