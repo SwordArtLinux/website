@@ -2,7 +2,6 @@ body
 {
 	min-width: 630px;
  background: rgb(96, 96, 96);
- text-decoration: none;
  font-family: 'SAOUI-Regular.otf', 'SAOUITT-Regular.ttf', serif;
  color: rgb(0, 150, 250);
 }
@@ -71,6 +70,11 @@ p
 }
 
 a
+{
+ text-decoration: none;
+}
+
+a:hover
 {
  color: rgb(255, 140, 0);
 }
