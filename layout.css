@@ -1,9 +1,10 @@
 body
 {
 	min-width: 630px;
- background-image: url("images/bg.svg");
- color: rgb(0, 150, 250);
+ background-image: rgb(96, 96, 96) url("images/bg.svg");
+ text-decoration: none;
  font-family: 'SAOUI-Regular.otf', 'SAOUITT-Regular.ttf', serif;
+ color: rgb(0, 150, 250);
 }
 
 #container
@@ -54,7 +55,7 @@ body
 
 #left, #right
 {
- background-image: url("images/white.svg");
+ background-image: rgb(255, 255, 255) url("images/white.svg");
 }
 
 #header, #footer
