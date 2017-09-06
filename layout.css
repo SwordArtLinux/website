@@ -62,7 +62,6 @@ body
 #left #right
 {
  background: rgb(255, 255, 255) url("images/white.svg");
- opacity: 0.5;
 }
 
 #container .column
@@ -73,7 +72,7 @@ body
 
 p
 {
- opacity: 1.0;
+
 }
 
 a
