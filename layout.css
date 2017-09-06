@@ -1,7 +1,7 @@
 body
 {
 	min-width: 630px;
- background: rgb(96, 96, 96) url("images/bg.svg");
+ background: rgb(96, 96, 96);
  text-decoration: none;
  font-family: 'SAOUI-Regular.otf', 'SAOUITT-Regular.ttf', serif;
  color: rgb(0, 150, 250);
@@ -61,7 +61,8 @@ body
 
 #left #right
 {
- background: rgb(255, 255, 255) url("images/white.svg");
+ background: rgb(255, 255, 255);
+ opacity: 0.5;
 }
 
 #container .column
@@ -72,7 +73,7 @@ body
 
 p
 {
-
+ opacity: 1.0;
 }
 
 a
