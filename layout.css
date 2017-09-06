@@ -1,0 +1,76 @@
+body
+{
+	min-width: 630px;
+ background-image: url("images/background.jpg");
+ color: rgb(0, 150, 250);
+}
+
+#container
+{
+	padding-left: 200px;
+	padding-right: 190px;
+}
+		
+#container .column
+{
+	position: relative;
+	float: left;
+}
+
+#center
+{
+	padding: 10px 20px;
+	width: 100%;
+}
+
+#left
+{
+	width: 180px;
+	padding: 0 10px;
+	right: 240px;
+	margin-left: -100%;
+}
+
+#right
+{
+	width: 130px;
+	padding: 0 10px;
+	margin-right: -100%;
+}
+
+#footer
+{
+	clear: both;
+}
+
+/*** Just for Looks ***/
+
+body
+{
+	margin: 0;
+	padding: 0;
+ /* Testing  */
+/* background-color: blue; */
+}
+
+#left, #right
+{
+ /* Testing  */
+/* background-color: green; */
+}
+
+#header, #footer
+{
+	font-size: large;
+	text-align: center;
+	padding: 0.3em 0;
+ /* Testing  */
+/* background-color: red; */
+}
+
+#container .column
+{
+	padding-top: 1em;
+	text-align: justify;
+}
+
