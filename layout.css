@@ -59,12 +59,16 @@ body
 	padding: 0.3em 0;
 }
 
+#left #right
+{
+ background: rgb(255, 255, 255) url("images/white.svg");
+ opacity: 0.5;
+}
+
 #container .column
 {
 	padding-top: 1em;
 	text-align: justify;
- background: rgb(255, 255, 255) url("images/white.svg");
- opacity: 0.5;
 }
 
 p
