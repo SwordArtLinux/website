@@ -50,14 +50,11 @@ body
 {
 	margin: 0;
 	padding: 0;
- /* Testing  */
-/* background-color: blue; */
 }
 
 #left, #right
 {
- /* Testing  */
-/* background-color: green; */
+
 }
 
 #header, #footer
@@ -65,8 +62,6 @@ body
 	font-size: large;
 	text-align: center;
 	padding: 0.3em 0;
- /* Testing  */
-/* background-color: red; */
 }
 
 #container .column
