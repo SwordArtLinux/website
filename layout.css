@@ -3,6 +3,7 @@ body
 	min-width: 630px;
  background-image: url("images/background.jpg");
  color: rgb(0, 150, 250);
+ font-family: 'SAOUI-Regular.otf', 'SAOUITT-Regular.ttf', serif;
 }
 
 #container
