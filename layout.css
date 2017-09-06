@@ -1,7 +1,7 @@
 body
 {
 	min-width: 630px;
- background: url("images/bg.svg");
+ background: rgb(96, 96, 96) url("images/bg.svg");
  text-decoration: none;
  font-family: 'SAOUI-Regular.otf', 'SAOUITT-Regular.ttf', serif;
  color: rgb(0, 150, 250);
@@ -53,14 +53,7 @@ body
 	padding: 0;
 }
 
-#left, #right
-{
- background: url("images/white.svg");
- opacity: 0.5;
-}
-
 #header, #footer
-{
 	font-size: large;
 	text-align: center;
 	padding: 0.3em 0;
@@ -70,6 +63,8 @@ body
 {
 	padding-top: 1em;
 	text-align: justify;
+ background: rgb(255, 255, 255) url("images/white.svg");
+ opacity: 0.5;
 }
 
 p
